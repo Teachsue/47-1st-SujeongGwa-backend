@@ -75,12 +75,15 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 </div>
 
-## 구현기능
+## 구현기능 및 활동
 
-# 상품리스트, 세부 상품 조회
+# PM (Project Manager)
 
-- 테스트입니다.
+- Trello를 사용하여 티켓을 발급하고 팀원들이 구현하고 싶은 API를 분배하였음.
+- 매일 오전 10시 standup 미팅을 통해, progress 체크 및 팀원들 컨디션 체크.
+- 팀원들 branch가 merge가 될 때, 해당 기능에 오류가 있는가에 대한 크로스체크.
+- 최종 기능 검토 및 데이터 베이스 서버 운영
 
-# 데이터베이스관리
+# 상품리스트, 세부 상품 이미지 데이터 업로드
 
-- 상원님께서 개인 github에 저장해주신, image 데이터들의 url을 받고, 각각의 data들의 성분을 받아, 자동적으로 데이터들이 개개인의 database 에 들어갈 수 있도록, js로 자동화 코드를 작성하였습니다. 이를 통해, 데이터를 database에 저장하는 시간이 감소되었습니다. 이 데이터들을 모두 github에 올려주신 상원님의 노고에 감사드립니다.
+- 개인 github에 image 데이터들의 url을 넣어, 팀원들이 DB dump 파일을 공유 가능하도록 세팅함.
